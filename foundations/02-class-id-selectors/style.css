@@ -6,3 +6,11 @@
     color: rgb(50, 50, 250);
     font-size: 36px;
 }
+.bread .focaccia {
+    font-size: 24px;
+}
+
+.bread.butter.jam {
+    background-color: rgb(90, 250, 0);
+    font-size: 24px;
+}
